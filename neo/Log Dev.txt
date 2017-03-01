@@ -1,0 +1,4 @@
+﻿- en el menu, se cambio la imagen ya que no esta centrada, solo se colocó una N en bold. 
+
+- en configuracion se coloco la direccion IP para que funcione de forma remota 
+
