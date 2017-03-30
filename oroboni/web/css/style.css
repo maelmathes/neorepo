@@ -129,7 +129,7 @@ a{
 	-ms-transition: all .3s;
 	-o-transition: all .3s;
 	transition: all .3s;
-	color: #80cc0c;
+	color: #009933;
 }
 
 a:hover,
@@ -138,7 +138,7 @@ a:active{
 	outline: 0;
 	text-decoration: none;
 	border: 0;
-	color: #80cc0c;
+	color: #009933;
 }
 .btn-primary:hover {
     color: #fff;
@@ -351,7 +351,7 @@ a:active{
 	font-size:52px;
 	margin: 10px 0 20px;
 	display: inline-block;
-	color: #80cc0c;
+	color: #009933;
 }
 .text-primary {
     color: #000 !important;
@@ -370,8 +370,8 @@ section#services {
 .btn-primary {
     color: #fff;
     border-radius: 0;
-    background-color: #80cc0c;
-    border-color: #80cc0c;
+    background-color: #009933;
+    border-color: #009933;
     padding: 15px 25px;
     margin: 0 auto;
     display: block;
@@ -456,7 +456,7 @@ section#services {
     margin: 24px 15px 20px;
 }
 .icon i {
-    color: #80cc0c;
+    color: #009933;
     font-size: 50px;
     margin: 24px 0 15px 0;
     display: inline-block;
@@ -487,7 +487,7 @@ section#services {
 .section-header h2{
 	font-weight: 700;
 	font-size: 48px;
-	color: #80cc0c;
+	color: #009933;
 	border-top: none;
 	border-bottom: none;
 	padding: 8px 10px;
@@ -607,7 +607,6 @@ header.page-header .main-menu{
 .navbar-brand img {
 	margin-top: 10px;
 	margin: 0 auto;
-	border: 1px #fff dashed;
 	padding: 15px;
 	border-radius: 50px;
 }
@@ -637,7 +636,7 @@ header.page-header .main-menu{
 .main-menu .navbar-nav li a:hover,
 .main-menu .navbar-nav li.active a{
     background-color: transparent;
-    color: #80cc0c;
+    color: #009933;
 }
 
 .main-menu .navbar-nav li a:focus{
@@ -879,17 +878,17 @@ header.page-header .main-menu.minified{
 	padding: 10px 20px;
 	display: inline-block;
 	margin: 0 8px !important;
-	border: 1px solid #80cc0c;
+	border: 1px solid #009933;
 }
 
 .portfolio-filter-btn-group ul li a:hover{
 	color: #FFF;
-	background-color: #80cc0c;
+	background-color: #009933;
 }
 
 .portfolio-filter-btn-group ul li a.selected{
 	color: #ffffff;
-	background: #80cc0c;
+	background: #009933;
 }
 .portfolio-items{
 	overflow: hidden;
@@ -1091,7 +1090,7 @@ header.page-header .main-menu.minified{
 .teams-section h2 span{
     /* font-weight: 700; */
     font-size: 62px;
-    color: #80cc0c;
+    color: #009933;
     border-top: none;
     border-bottom: none;
     display: inline-block;
@@ -1164,7 +1163,7 @@ header.page-header .main-menu.minified{
 	font-size: 14px;
 	font-weight: 700;
 	margin-bottom: 0;
-	color: #80cc0c;
+	color: #009933;
 }
 /*------Menue------*/
 
@@ -1463,7 +1462,7 @@ header.page-header .main-menu.minified{
 .menus.style3 .menu-column{
     padding-top: 38px;
     padding: 20px;
-    background: #ffffff;
+    /*background: #ffffff;*/
 }
 .menus.style3 .menu .food .food-name,
 .menus.style3 .menu .food .food-price{
@@ -1520,7 +1519,7 @@ header.page-header .main-menu.minified{
 }
 .pricing-plans .pricing-titles{
 	text-align: center;
-	border: 1px solid #80cc0c;
+	border: 1px solid #009933;
 	border-bottom: 0;
 	padding: 25px 0 15px;
 }
@@ -1535,7 +1534,7 @@ header.page-header .main-menu.minified{
 
 .pricing-plans .pricing-titles p{
 	font-size: 16px;
-	color: #80cc0c;
+	color: #009933;
 }
 
 .pricing-plans .pricing-titles p span{
@@ -1544,8 +1543,8 @@ header.page-header .main-menu.minified{
 }
 .pricing-plans .pricing-service-name{
 	background-color: #ffffff;
-	border-left: 1px solid #80cc0c;
-	border-right: 1px solid #80cc0c;
+	border-left: 1px solid #009933;
+	border-right: 1px solid #009933;
 }
 
 .pricing-plans ul li{
@@ -1561,12 +1560,12 @@ header.page-header .main-menu.minified{
 	padding: 15px 30px;
 	text-align: center;
 	display: inline-block;
-	background: #80cc0c;
+	background: #009933;
 }
 .bg-btn {
 	padding: 20px;
 	border-top: none;
-	border: #80cc0c solid 1px;
+	border: #009933 solid 1px;
 	border-top: none;
 }
 .pricing-plans a.signup-btn:hover{
